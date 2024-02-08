@@ -1,6 +1,15 @@
-- 👋 Hi, I’m @Karlasepo
-- 👀 I’m interested in programming and playing videogames
-- 🌱 I’m currently learning c#, Java, JavaScript
+- 👋 Hi, I’m @Karlasepo my studient account is @CarlaSegura
+
+- 🌱 I’m currently learning …
+        C#
+        Java
+        JavaScript
+        CSS
+        HTML
+  
+- 📫 How to reach me …
+        
+
 
 
 <!---
