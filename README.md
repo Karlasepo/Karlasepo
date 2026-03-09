@@ -6,8 +6,7 @@
         JavaScript
         CSS
         HTML
-  
-- 📫 How to reach me …
+
         
 
 
